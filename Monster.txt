@@ -1,0 +1,6 @@
+Name	Health	PhysicalDamage
+Skechaa	20.0	4.0
+Fatty	25.0	6.0
+Bunny	30.0	8.0
+Awng	35.0	10.0
+Cachin	40.0	12.0
